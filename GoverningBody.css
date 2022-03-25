@@ -1,0 +1,25 @@
+.gov_body
+{
+    height: auto;
+    width: fit-content;
+    padding-top: 10rem;
+}
+.gov_body .card
+{
+    position: relative;
+    padding: 2rem 3rem;
+    display: block;
+    height: 350px;
+}
+.gov_body .card img
+{
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    border-radius:50% 50% 50% 50%;  
+    width:140px;
+    height:140px;
+    border: 1px solid #fda3a3;
+    margin-top: 20px;
+    box-shadow: 0 10px 25px rgb(136, 135, 135);
+}
