@@ -1,0 +1,29 @@
+
+const ourteam =
+[
+    {
+        id : 1,
+        imgscr : "",
+        name : "Abc",
+        info : "fdgzd"
+    },
+    {
+        id : 2,
+        imgscr : "",
+        name : "Def",
+        info : "gfdgy"
+    },
+    {
+        id : 3,
+        imgscr : "",
+        name : "Ghi",
+        info : "gdfgzgd"
+    },
+    {
+        id : 4,
+        imgscr : "",
+        name : "Jkl",
+        info : "fghrgh"
+    }
+];
+export default ourteam;
